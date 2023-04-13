@@ -1,20 +1,17 @@
-<!-- *********************************************************************** -->
-<!--                                                                         -->
-<!--                                         =@@*   +@@+                     -->
-<!--                                         =@@*   +@@+ :*%@@@%*:           -->
-<!--                                         =@@*   =@@+.@@@=--%@@-          -->
-<!--                                         :@@%. .#@@--@@*   +@@* .+%@@@   -->
-<!-- README.md                                =%@@@@@@+ =@@*   =@@+.@@@+-=   -->
-<!--                                            .---:   -@@#.  *@@--@@*      -->
-<!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
-<!--                                                       :-==:.  -@@#      -->
-<!-- Created: 2023/04/11 15:01:43 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2023/04/11 18:11:44 by aperez-b                                -->
-<!--                                                                         -->
-<!-- *********************************************************************** -->
+---
+title: CAE2
+subtitle: Looking for the inspiring problem of the entrepreneurial project
+date: April 11th, 2023
+author: Alejandro Pérez
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead[CO,CE]{aperez-b@uoc.edu}
+    \fancyhead[RO,RE]{UOC}
+geometry: margin=1.5cm
+---
 
-# CAE2 Looking for the inspiring problem of the entrepreneurial project
-
+\newpage
 ## Table of Contents
 
 - [Part I - List of Opportunities](#part-i---list-of-opportunities)
@@ -24,18 +21,14 @@
 - [Part II - Statement, Evaluation and Selection of the Inspirational Problem](#part-ii---statement-evaluation-and-selection-of-the-inspirational-problem)
   - [Evaluation](#evaluation)
   - [Selection](#selection)
-- [Part III - Validation. Interviews of the Problem](#part-iii---validation-interviews-of-the-problem)
-  - [Problem Interview Script Design](#problem-interview-script-design)
-  - [Identification of the list of People or Organizations to interview](#identification-of-the-list-of-people-or-organizations-to-interview)
-  - [Interviews](#interviews)
-  - [Analysis](#analysis)
 
+\newpage
 ## Part I - List of Opportunities
 
 ### Sources of Inspiration
 
-|  -  | **Area** | **Chosen Scope** | **Reason for the Election** |
-| :-: | :------: | :--------------: | :-------------------------: |
+|  -  | **Area** | **Scope** | **Reason** |
+| :-: | :------: | :-------: | :--------: |
 | **Macro Trends** | Technological acceleration | Social media and smartphone addiction, especially among the young | The excessive use of these technologies is doing more harm than good, further isolating and dividing the population |
 | **Sectors of Activity** | *Emerging*: social innovation, Industry 4.0. *Traditional*: Welfare, Elecrtronics | Smart devices, social networking apps | Industry 4.0 is helping mankind solve many problems, but there is a growing concern that we are becoming more and more addicted to some of the benefits they offer, especially through the advancements in smartphones and software |
 | **Technologies** | AI, Big Data, VR/AR | Algorightms and data collection involved in recommendations and ads in social media | As Machine Learning and similar technologies evolve, these social media apps make users stay for longer periods of time, thus damaging slowly their mental health and wellbeing |
@@ -91,7 +84,7 @@ as shown by these graphs:
 
 | **No.** | **Identified Problem** | **Who has the Problem** |
 | :-----: | :--------------------: | :---------------------: |
-| 1 | Overuse of the smartphone and technology in general | Most men and women who own technology admit to having some dependancy or are dissatisfied with their technology use |
+| 1 | Overuse of smartphones and technology in general | Most men and women who own technology admit to having some dependancy or are dissatisfied with their technology use |
 | 2 | Content posted on social media apps does not always represent reality | People often compare themselves with the lives that others post on their accounts, often displaying only the best recounts of their day |
 | 3 | Lack of regulation or prevention of harassment on social media | Many suicides attributed to social media happened due to someone posting content about a person without their consent, causing great mental harm to the other person |
 | 4 | Social media apps and smartphones' Operating Systems are designed to keep you glued to the screen, rather than away from it | Our screens display an endless feed of colorful content, which often leads to us spending more time than we ought to on them |
@@ -102,83 +95,71 @@ as shown by these graphs:
 
 ### Evaluation
 
-For every column, I will rate everything related to the problem with a score from `0` (lowest) to `10` (highest).
+For every column, I will rate everything related to the problem with a score from `1` (lowest) to `5` (highest).
 
 | **Identified Problems** | **Importance** | **Impact** | **Specification Level** | **Feasibility** | **Total Score** |
 | :---------------------: | :------------: | :--------: | :---------------------: | :-------------: | :-------------: |
-| Overuse of the smartphone and technology in general ||||||
-| Content posted on social media apps does not always represent reality ||||||
-| Lack of regulation or prevention of harassment on social media ||||||
-| Social media apps and smartphones' Operating Systems are designed to keep you glued to the screen, rather than away from it ||||||
-| Algorightms from social media harvest our user data to influence the feed we see on these apps ||||||
-| We lose face-to-face interactions, which are crucial to our humanity ||||||
+| Overuse of smartphones and technology in general | 4 | 5 | 3 | 5 | **17** |
+| Content posted on social media apps does not always represent reality | 3 | 3 | 2 | 2 | **10** |
+| Lack of regulation or prevention of harassment on social media | 5 | 4 | 5 | 4 | **18** |
+| Social media apps and smartphones' Operating Systems are designed to keep you glued to the screen, rather than away from it | 5 | 5 | 4 | 3 | **17** |
+| Algorightms from social media harvest our user data to influence the feed we see on these apps | 5 | 4 | 3 | 3 | **15** |
+| We lose face-to-face interactions, which are crucial to our humanity | 5 | 4 | 3 | 4 | **16** |
 
 I will select the following problems, since they have the highest total score:
 
-1.
-1.
-1.
+1. Lack of regulation or prevention of harassment on social media
+1. Overuse of smartphones and technology in general
+1. Social media apps and smartphones' Operating Systems are designed to keep you glued to the screen, rather than away from it
 
 ### Selection
 
 #### Problem 1
 
-*problem*
+*Lack of regulation or prevention of harassment on social media*
 
 Pros:
 
-  - 
-  - 
-  -
+  - Will help reduce the number of cases of cyberbullying and harrassment
+  - It may help bullies reconsider and be more kind to their neighbor
+  - It will help parents reduce their anxiety over their children being bullied or molested online
 
 Cons:
 
-  - 
-  - 
-  - 
+  - Rules on how to proceed are unclear and will likely vary between countries according to their respective child protection laws
+  - It will be hard to prevent this sort of problem without in some way scanning user's data, which may be a privacy violation for some
+  - This task of bullying detection on social media will have to be done by AI, which may have false positives or false negatives
+  - Similar to the last con, bullies may find other ways to circumvent these regulations
 
 #### Problem 2
 
-*problem*
+*Overuse of the smartphone and technology in general*
 
 Pros:
 
-  - 
-  - 
-  - 
+  - Will improve the quality of life of society, and make it a better place overall
+  - Less technology will encourage other forms of entertainment and will involve more outdoor and social leisure time
+  - Will allow people to slow down a bit and enjoy the present, rather than the stress that came from obsessing over everything people was posting on social media
 
 Cons:
 
-  - 
-  - 
-  - 
+  - Life may be less convenient. Phones are used for many day-to-day tasks
+  - FOMO: Fear Of Missing Out may kick in. This is stress that some experience where they think that they're missing out on what their friends are posting, or are missing important pieces of news.
+  - Not very feasible long-term, especially for a business
 
 #### Problem 3
 
-*problem*
+*Social media apps and smartphones' Operating Systems are designed to keep you glued to the screen, rather than away from it*
 
 
-Pros
+Pros:
 
-  - 
-  - 
-  - 
+  - Will help users develop a healthier relationship with smartphones, using them as the tools they're supposed to be
+  - People will be able to fine-tune how and when apps will notify them, and by default the apps will be less intrusive with notifications
+  - An Open-Source OS like Linux has privacy and productity in mind in their development
 
-Cons
+Cons:
 
-  - 
-  - 
-  - 
-
-
-## Part III - Validation. Interviews of the Problem
-
-### Problem Interview Script Design
-
-### Identification of the list of People or Organizations to interview
-
-### Interviews
-
-### Analysis
-
-March 11th, 2023
+  - Big Tech companies' businesses largely relies on keeping users on their apps, so this is unlikely to change in the near future
+  - More mindful Operating Systems as the one mentioned before are not popular and requires some technical knowledge
+  - It is hard to build a business that implements all the above and still has a sustaible business model. Donations likely won't be enough in the long run
