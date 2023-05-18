@@ -1,17 +1,20 @@
----
-title: CAE2
-subtitle: Looking for the inspiring problem of the entrepreneurial project
-date: April 11th, 2023
-author: Alejandro Pérez
-header-includes: |
-    \usepackage{fancyhdr}
-    \pagestyle{fancy}
-    \fancyhead[CO,CE]{aperez-b@uoc.edu}
-    \fancyhead[RO,RE]{UOC}
-geometry: margin=1.5cm
----
+<!-- *********************************************************************** -->
+<!--                                                                         -->
+<!--                                         =@@*   +@@+                     -->
+<!--                                         =@@*   +@@+ :*%@@@%*:           -->
+<!--                                         =@@*   =@@+.@@@=--%@@-          -->
+<!--                                         :@@%. .#@@--@@*   +@@* .+%@@@   -->
+<!-- README.md                                =%@@@@@@+ =@@*   =@@+.@@@+-=   -->
+<!--                                            .---:   -@@#.  *@@--@@*      -->
+<!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
+<!--                                                       :-==:.  -@@#      -->
+<!-- Created: 2023/05/18 11:49:52 by aperez-b                       +@@@%@   -->
+<!-- Updated: 2023/05/18 11:50:04 by aperez-b                                -->
+<!--                                                                         -->
+<!-- *********************************************************************** -->
 
-\newpage
+# Challenge 2: Looking for the inspiring problem of the entrepreneurial project
+
 ## Table of Contents
 
 - [Part I - List of Opportunities](#part-i---list-of-opportunities)
@@ -22,7 +25,6 @@ geometry: margin=1.5cm
   - [Evaluation](#evaluation)
   - [Selection](#selection)
 
-\newpage
 ## Part I - List of Opportunities
 
 ### Sources of Inspiration
