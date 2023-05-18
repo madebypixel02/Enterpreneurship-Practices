@@ -6,7 +6,7 @@
 <!-- By: aperez-b <aperez-b@student.42.fr>          +#+  +:+       +#+       -->
 <!--                                              +#+#+#+#+#+   +#+          -->
 <!-- Created: 2023/05/18 11:49:02 by aperez-b          #+#    #+#            -->
-<!-- Updated: 2023/05/18 12:38:05 by aperez-b         ###   ########.fr      -->
+<!-- Updated: 2023/05/18 12:46:42 by aperez-b         ###   ########.fr      -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
@@ -16,19 +16,19 @@
 
 - [1. Planning](#1-planning)
 - [2. Choice of Opportunity to Work](#2-choice-of-opportunity-to-work)
-  - [2.1. Presentation of Opportunities](#2-1--presentation-of-opportunities)
-  - [2.2. Decision Matrix and Selection of the Opportunity](#2-2-decision-matrix-and-selection-of-the-opportunity)
+  - [Presentation of Opportunities](#presentation-of-opportunities)
+  - [Decision Matrix and Selection of the Opportunity](#decision-matrix-and-selection-of-the-opportunity)
 - [3. Analysis of the Competition](#3-analysis-of-the-competition)
-  - [3.1. Identification of the Competition](#3-1--identification-of-the-competition)
-  - [3.2. Determination of Key Parameters](#3-2--determination-of-key-parameters)
-  - [3.3. Positioning Map](#3-3--positioning-map)
-  - [3.4. Conclusions](#3-4--conclusions)
+  - [Identification of the Competition](#identification-of-the-competition)
+  - [Determination of Key Parameters](#determination-of-key-parameters)
+  - [Positioning Map](#positioning-map)
+  - [Conclusions](#conclusions)
 - [4. The Client/User](#4-the-client-user)
-  - [4.1. Market Segmentation](#4-1--market-segmentation)
-  - [4.2. User-Person](#4-2--user-person)
+  - [Market Segmentation](#market-segmentation)
+  - [User-Person](#user-person)
 - [5. Ideation](#5-ideation)
-  - [5.1. Generation of Ideas](#5-1--generation-of-ideas)
-  - [5.2. Debate and Selection of Ideas](#5-2--debate-and-selection-of-ideas)
+  - [Generation of Ideas](#generation-of-ideas)
+  - [Debate and Selection of Ideas](#debate-and-selection-of-ideas)
 - [6. Prototyping and Testing](#6-prototyping-and-testing)
 
 ## 1. Planning
@@ -105,7 +105,6 @@ Offtime is a flexible tool that helps users cut back on screen time and address 
 
 
 
-\newpage
 ### 3.3. Positioning Map
 
 ![Positioning Map](./img/positioning-map.png)
@@ -140,7 +139,6 @@ Here is the analysis of parameters of segmentation:
 | Type of user | The app targets individuals who actively seek to reduce their social media usage, whether they are non-users, potential users, ex-users, sporadic users, usual users, or addicted users. |
 | Brand loyalty | Brand loyalty is not a significant factor in this app's market segmentation. |
 
-\newpage
 
 ### 4.2. User-Person
 
